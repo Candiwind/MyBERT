@@ -9,12 +9,12 @@ https://huggingface.co/google-bert/bert-base-uncased/tree/main
 如果跑不通的话再下其他文件也行
 
 下载完这两项之后，工程路径安排为：
-
+```bash
 MyBERT  |--python
 
         |--data     |--aclImdb_v1           |--(下载的数据)
         
         |--models   |--bert-base-uncased    |--(下载的预训练模型)
-
+```
 装完库后应该就能运行 main.py 了
 
