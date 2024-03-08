@@ -9,6 +9,7 @@ https://huggingface.co/google-bert/bert-base-uncased/tree/main
 如果跑不通的话再下其他文件也行
 
 下载完这两项之后，工程路径安排为：
+
 MyBERT  |--python
 
         |--data     |--aclImdb_v1           |--(下载的数据)
