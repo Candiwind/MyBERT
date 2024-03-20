@@ -1,17 +1,5 @@
 # MyBERT
 
-
-
-[TOC]
-
-
-
-
-
-## mybuild 分支
-
-参考已有代码手搭的 bert 训练框架
-
 imdb 数据集 下载地址:
 https://ai.stanford.edu/~amaas/data/sentiment/
 
@@ -29,8 +17,4 @@ MyBERT  |--python
         |--models   |--bert-base-uncased    |--(下载的预训练模型)
 ```
 装完库后应该就能运行 main.py 了
-
-
-
-## main 分支
 
